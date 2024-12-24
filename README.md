@@ -7,14 +7,20 @@
  The primary goal of this project was to create an interactive and visually appealing dashboard to help HR teams analyze employee data efficiently. Key metrics include:
 
 Total number of employees.
+
 Gender ratio and race distribution.
+
 Department-wise workforce distribution.
+
 Workforce trends over time.
+
 Location-based employee statistics (Headquarters vs. Remote).
 
 ## Tools Used
 SQL: For querying, cleaning, and preprocessing the data.
+
 Excel: For initial data cleaning and formatting before importing to Power BI.
+
 Power BI: For designing the visual dashboard and connecting dynamic data models.
 
 ## Steps Involved
@@ -44,7 +50,10 @@ A doughnut chart for location-based employee distribution.
 The dashboard highlights key insights:
 
 A majority of employees work in engineering (6.7K).
+
 Gender distribution leans slightly male (50.81% male, 46.46% female, and 2.72% non-conforming).
+
 Most employees work at the headquarters (75.25%).
+
 Racial diversity varies significantly across departments, with detailed visualizations provided.
  

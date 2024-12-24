@@ -61,4 +61,8 @@ Racial diversity varies significantly across departments, with detailed visualiz
 
 <img width="635" alt="HR DASHBOARD PROJECT" src="https://github.com/user-attachments/assets/38e98dcb-f766-452b-9025-e219f9d93dae" />
 
+
+ ## SQL Code
+ <img width="766" alt="SQL Code" src="https://github.com/user-attachments/assets/519f07d8-b2c8-46dd-b2c2-499418038241" />
+
  

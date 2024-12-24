@@ -56,4 +56,9 @@ Gender distribution leans slightly male (50.81% male, 46.46% female, and 2.72% n
 Most employees work at the headquarters (75.25%).
 
 Racial diversity varies significantly across departments, with detailed visualizations provided.
+
+## dashboard
+
+<img width="635" alt="HR DASHBOARD PROJECT" src="https://github.com/user-attachments/assets/38e98dcb-f766-452b-9025-e219f9d93dae" />
+
  
